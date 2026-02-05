@@ -1,0 +1,4 @@
+mcp
+httpx
+openai
+python-dotenv
